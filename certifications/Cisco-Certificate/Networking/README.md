@@ -29,6 +29,8 @@
 
 В рамках обучения выполнялись практические работы в **Cisco Packet Tracer**, включая настройку сетевых устройств и проверку соединения.
 
+[cisco-packet-tracer-labs](https://github.com/Buregonitel/cisco-packet-tracer-labs)
+
 ## 🏆 Certificate
 
 Сертификат подтверждает успешное прохождение курса **Networking Basics**.
