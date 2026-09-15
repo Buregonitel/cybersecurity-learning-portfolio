@@ -1,14 +1,14 @@
-# 🎓 Networking Basics — Cisco Networking Academy
+#  Networking Basics — Cisco Networking Academy
 
 Сертификат о прохождении курса **Networking Basics** от **Cisco Networking Academy**.
 
-## 📚 Course
+## Course
 
 **Networking Basics**
 
 Платформа: Cisco Networking Academy
 
-## 🧠 Основные темы
+## Основные темы
 
 В рамках курса изучались основы компьютерных сетей:
 
@@ -23,7 +23,7 @@
 - сетевые сервисы;
 - базовая диагностика сетевого соединения.
 
-## 🧪 Практика
+##  Практика
 
 Курс включал практические лабораторные работы и задания, связанные с настройкой и проверкой сетевых подключений.
 
@@ -31,19 +31,19 @@
 
 [cisco-packet-tracer-labs](https://github.com/Buregonitel/cisco-packet-tracer-labs)
 
-## 🏆 Certificate
+##  Certificate
 
 Сертификат подтверждает успешное прохождение курса **Networking Basics**.
 
-📄 [View Certificate](Networking-Basics-Certificate.pdf)
+[View Certificate](Networking-Basics-Certificate.pdf)
 
-## 🔗 Verification
+##  Verification
 
 Профиль Cisco Networking Academy:
 
 [My Cisco Networking Academy Profile](https://www.netacad.com/profile?tab=badges)
 
-## 🛠 Skills
+##  Skills
 
 - Networking Fundamentals
 - IPv4
@@ -55,6 +55,6 @@
 - Basic Network Troubleshooting
 - Cisco Packet Tracer
 
-## 📌 Status
+##  Status
 
 **Completed ✅**
