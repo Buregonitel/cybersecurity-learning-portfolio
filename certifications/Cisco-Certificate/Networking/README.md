@@ -38,6 +38,7 @@
 ![Cisco Networking Basics Certificate](Networking-Basics-Certificate.png)
 
 📄 [Open Certificate PDF](Networking-Basics-Certificate.pdf)
+
 ##  Verification
 
 Профиль Cisco Networking Academy:
