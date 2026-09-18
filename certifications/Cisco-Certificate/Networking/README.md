@@ -37,7 +37,7 @@
 
 ![Cisco Networking Basics Certificate](Networking-Basics-Certificate.png)
 
-📄 [Open Certificate PDF](Networking-Basics-Certificate.pdf)
+📄 [Open Certificate PDF](https://github.com/Buregonitel/cybersecurity-learning-portfolio/blob/main/certifications/Cisco-Certificate/Networking/Networking-Basics-Certificate.pdf.)
 
 ##  Verification
 
