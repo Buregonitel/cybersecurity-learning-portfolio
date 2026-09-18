@@ -35,8 +35,9 @@
 
 Сертификат подтверждает успешное прохождение курса **Networking Basics**.
 
-[View Certificate](Networking-Basics-Certificate.pdf)
+![Cisco Networking Basics Certificate](Networking-Basics-Certificate.png)
 
+📄 [Open Certificate PDF](Networking-Basics-Certificate.pdf)
 ##  Verification
 
 Профиль Cisco Networking Academy:
