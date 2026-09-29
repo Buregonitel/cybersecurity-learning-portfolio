@@ -6,6 +6,7 @@
 - [OverTheWire](https://overthewire.org)
 - [Hack The Box](https://hackthebox.com)
 - [PicoCTF](https://picoctf.org)
+- [LabEx](https://labex.io)
 
 ## Курсы и обучение
 - [Cisco Skills for All](https://skillsforall.com)
