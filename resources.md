@@ -13,6 +13,7 @@
 - [Linux Journey](https://linuxjourney.com)
 - [Professor Messer (YouTube)](https://www.youtube.com/@ProfessorMesser)
 - [ISC2 Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
+- [FreeCodeCamp Python](https://www.freecodecamp.org)
 
 ## Инструменты
 - Nmap
