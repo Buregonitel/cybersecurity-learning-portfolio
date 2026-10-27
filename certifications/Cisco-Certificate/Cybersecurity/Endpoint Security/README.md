@@ -40,7 +40,7 @@ This certificate confirms the successful completion of **Endpoint Security**.
 
 Cisco Networking Academy profile:
 
-[My Cisco Networking Academy Profile]([https://www.netacad.com/profile?tab=badges])
+[My Cisco Networking Academy Profile](https://www.netacad.com/profile?tab=badges)
 
 **Certificate ID:** `3fd5392f-c8e0-4d2e-92b4-3c2dfc17ee71`
 
