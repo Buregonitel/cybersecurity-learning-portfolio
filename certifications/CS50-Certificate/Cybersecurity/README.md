@@ -37,7 +37,7 @@ This certificate confirms the successful completion of **CS50's Introduction to 
 
 ![CS50 Introduction to Cybersecurity Certificate](Introduction-to-Cybersecurity.png)
 
-📄 [Open Certificate](https://cs50.harvard.edu/certificates/784444cc-df44-416d-8d65-68f44989f477)
+📄 [Open Certificate](Introduction-to-Cybersecurity.pdf)
 
 ## Verification
 
