@@ -1,4 +1,4 @@
-# 🔐 Password & Hash Security Lab
+#  Password & Hash Security Lab
 
 ## Overview
 
