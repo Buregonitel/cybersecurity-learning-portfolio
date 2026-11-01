@@ -1,4 +1,4 @@
-#  Password & Hash Security Lab
+#  Cybersecurity Home Lab: Project #2 - Password & Hash Security 
 
 ## Overview
 
