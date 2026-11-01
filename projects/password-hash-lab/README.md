@@ -35,7 +35,8 @@ Generate a SHA-256 hash from a test password using `sha256sum`:
 ```bash
 echo -n "MyPassword123" | sha256sum
 ```
-(create-text-password.png)
+![Hash](create-text-password.png)
+
 
 **Observation:** The command generates a fixed-length SHA-256 hash from the provided input.
 
@@ -47,6 +48,7 @@ Generate hashes from identical inputs and compare the results:
 echo -n "MyPassword123" | sha256sum
 echo -n "MyPassword123" | sha256sum
 ```
+![Hash](check.png)
 
 **Observation:** Identical inputs produce identical SHA-256 hashes. A small change in the input produces a different hash.
 
@@ -65,6 +67,8 @@ Modify the file:
 echo "Modified content" >> test.txt
 sha256sum test.txt
 ```
+![Hash](integrity.png)
+
 
 **Observation:** Changing the file content changes its hash. This demonstrates how cryptographic hashing can help detect file modifications.
 
@@ -76,6 +80,8 @@ Compare hashes generated from the same password combined with different salt val
 echo -n "MyPassword123:salt1" | sha256sum
 echo -n "MyPassword123:salt2" | sha256sum
 ```
+![Hash](salt.png)
+
 
 **Observation:** Different salt values produce different hashes, even when the original password remains the same.
 
