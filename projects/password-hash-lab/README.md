@@ -35,6 +35,7 @@ Generate a SHA-256 hash from a test password using `sha256sum`:
 ```bash
 echo -n "MyPassword123" | sha256sum
 ```
+(create-text-password.png)
 
 **Observation:** The command generates a fixed-length SHA-256 hash from the provided input.
 
