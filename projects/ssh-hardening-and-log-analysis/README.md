@@ -1,10 +1,10 @@
-# 🛡️ Cybersecurity Home Lab: Project #1 - SSH Hardening & Log Analysis
+#  Cybersecurity Home Lab: Project #1 - SSH Hardening & Log Analysis
 
 > **Goal:** Deploy a hardened SSH service, restrict access to Ed25519 public key authentication, and analyze authentication logs for unauthorized access detection.
 
 ---
 
-## 📐 Environment & Network Topology
+##  Environment & Network Topology
 
 The lab setup is isolated using a Host-Only virtual network to allow safe attack simulations and log analysis directly from the host terminal.
 
@@ -26,7 +26,7 @@ The lab setup is isolated using a Host-Only virtual network to allow safe attack
 
 ---
 
-## 🚀 Execution Steps
+##  Execution Steps
 
 ### Step 1: Simulating an Attack & Log Inspection
 To observe how authentication events are recorded by the system, an unauthorized login attempt was generated from the Attacker VM (`192.168.56.102`) targeting an invalid user account (`wrong_user`).
@@ -37,7 +37,7 @@ On the Target server, system logs were queried using `journalctl` to filter SSH 
 sudo journalctl -u ssh | grep "Failed password"
 ```
 
-#### 🔍 Detected Event:
+####  Detected Event:
 ![SSH Authentication Logs](ssh-logs.png)
 
 > **Log Analysis:** The log line shows that `sshd-session` flagged a failed password attempt for `wrong_user` originating from IP `192.168.56.102` on port `49298`.
@@ -86,14 +86,14 @@ To verify that password authentication is completely disabled, an unauthorized S
 ssh wrong_user@192.168.56.101
 ```
 
-#### 🚫 Server Response:
+####  Server Response:
 ![Permission Denied Screenshot](permission-denied-(publickey).png)
 
 > **Result:** The server immediately dropped the connection with `Permission denied (publickey)` without prompting for a password. Password-based brute-force attacks are now ineffective against this server.
 
 ---
 
-## 🛠️ Key Takeaways
+##  Key Takeaways
 
 * **SIEM & Log Auditing:** Gained hands-on experience locating and parsing SSH security events using `journalctl`.
 * **Linux Server Hardening:** Applied security best practices by disabling password authentication and root SSH access.
