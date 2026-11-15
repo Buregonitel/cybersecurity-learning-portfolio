@@ -1,4 +1,4 @@
-# Intro to Log Analysis — TryHackMe
+# Intro to Log Analysis - TryHackMe
 
 **Room:** [Intro to Log Analysis](https://tryhackme.com/room/introtologanalysis)  
 **Difficulty:** Easy  
