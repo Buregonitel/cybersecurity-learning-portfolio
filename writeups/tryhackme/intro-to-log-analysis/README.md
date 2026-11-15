@@ -96,7 +96,7 @@ Practical analysis of Apache access logs using classic Unix tools.
 ![cut](cut.png)  
 ![sort -n](sort-n.png)  
 ![sort -r](sort-r.png)  
-![uniq](/task5-cli/uniq.png)  
+![uniq](uniq.png)  
 ![uniq -c](uniq-c.png)  
 ![sed](sed.png)  
 ![awk](awk.png)  
