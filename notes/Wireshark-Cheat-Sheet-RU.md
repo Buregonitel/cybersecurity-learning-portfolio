@@ -170,6 +170,3 @@ smb2.filename
 ```
 
 ---
-
-**Автор шпаргалки:** собрано для удобного использования при разборе malware traffic analysis exercises.
-```
